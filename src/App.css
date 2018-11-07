@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  user-select: none;
+}
+
+div {
+  border-radius: 1vh;
+  box-shadow: 0px 0px 1vmin black;
+  font-size: 2vh;
+  left: calc(50% - 250px);
+  opacity: 0.95;
+  position: absolute;
+  width: 500px;
+}
+
+img {
+  width: 100vmax;
+}

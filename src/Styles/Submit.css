@@ -1,0 +1,13 @@
+button, input, label {
+    cursor: pointer;
+    user-select: none;
+}
+
+label {
+    font-size: 3vh;
+}
+
+#submitBox {
+    height: 50vh;
+    top: 10vh;
+}
